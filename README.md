@@ -1,4 +1,6 @@
 # aws-data-pipeline
+![aws-academy-graduate-aws-academy-cloud-data-pipelin](https://github.com/user-attachments/assets/89b12513-24b7-4c99-b2b7-3454dad384f7)
+
 
 # Clickstream Data Pipeline Implementation
 
