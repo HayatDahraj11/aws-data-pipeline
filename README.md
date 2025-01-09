@@ -1,4 +1,12 @@
 # aws-data-pipeline
+## Cerifications and Badges
+
+
+
+<img width="794" alt="401603164-92437a04-6e38-4621-a962-c2109eec37a0" src="https://github.com/user-attachments/assets/21a13cdd-5d31-4c2d-8caa-bcc331898302" />
+
+
+
 ![aws-academy-graduate-aws-academy-cloud-data-pipelin](https://github.com/user-attachments/assets/89b12513-24b7-4c99-b2b7-3454dad384f7)
 
 
